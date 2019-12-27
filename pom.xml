@@ -6,7 +6,7 @@
     <artifactId>spring-petclinic</artifactId>
     <version>4.3.11</version>
 
-    <!-- commentaire pour Themis -->
+    <!-- commentaire pour Themis, après changement de règles -->
     <name>petclinic</name>
     <packaging>war</packaging>
 
